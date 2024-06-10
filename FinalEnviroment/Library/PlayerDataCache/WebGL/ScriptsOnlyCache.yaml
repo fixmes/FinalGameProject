@@ -53,19 +53,19 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 23622}
+      Script: {instanceID: 1884}
     - Class: 114
-      Script: {instanceID: 23624}
+      Script: {instanceID: 2082}
     - Class: 114
-      Script: {instanceID: 23626}
+      Script: {instanceID: 2418}
     - Class: 114
-      Script: {instanceID: 23664}
+      Script: {instanceID: 2614}
     - Class: 114
-      Script: {instanceID: 23670}
+      Script: {instanceID: 5292}
     - Class: 114
-      Script: {instanceID: 23676}
+      Script: {instanceID: 7100}
     - Class: 114
-      Script: {instanceID: 23680}
+      Script: {instanceID: 7750}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 124
@@ -137,6 +137,18 @@ ScriptsOnlyBuild:
     className: UnityOnMouseExitMessageListener
   - hash:
       serializedVersion: 2
+      Hash: 09409ba91b70d0a690ada61f64e84252
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: FirstPersonMovement
+  - hash:
+      serializedVersion: 2
+      Hash: ac736fc7a493a89e323807ea3812ba84
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Zoom
+  - hash:
+      serializedVersion: 2
       Hash: b12640dfdb5966813e9dd838893e6c4a
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
@@ -179,6 +191,12 @@ ScriptsOnlyBuild:
     className: RawImage
   - hash:
       serializedVersion: 2
+      Hash: 04310897cebfbc50066db7fa3f427dd2
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: FirstPersonAudio
+  - hash:
+      serializedVersion: 2
       Hash: 1321993db8249e1e05e1e0492b2bbdc3
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
@@ -213,6 +231,12 @@ ScriptsOnlyBuild:
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
     className: UnityOnCollisionEnterMessageListener
+  - hash:
+      serializedVersion: 2
+      Hash: 073b74cae83416d482e3717876df85a4
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: FirstPersonLook
   - hash:
       serializedVersion: 2
       Hash: 7e12302f66e3c8ed5bcfea4ce65fccea
@@ -623,6 +647,12 @@ ScriptsOnlyBuild:
     className: Text
   - hash:
       serializedVersion: 2
+      Hash: e989db3cbff6b05baeae2cf797893d48
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Jump
+  - hash:
+      serializedVersion: 2
       Hash: 1ce63d97d1ca25cba2d91d5f32fd5f79
     assemblyName: Unity.VisualScripting.State
     namespaceName: Unity.VisualScripting
@@ -833,6 +863,12 @@ ScriptsOnlyBuild:
     className: ScrollRect
   - hash:
       serializedVersion: 2
+      Hash: 99054075e54ab74a11d477ccf5c7def2
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: Crouch
+  - hash:
+      serializedVersion: 2
       Hash: 9a174471d4db2c0c6d3ac47d2f818db1
     assemblyName: Unity.VisualScripting.Core
     namespaceName: Unity.VisualScripting
@@ -905,47 +941,11 @@ ScriptsOnlyBuild:
     className: UnityOnSliderValueChangedMessageListener
   - hash:
       serializedVersion: 2
-      Hash: 09409ba91b70d0a690ada61f64e84252
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: FirstPersonMovement
-  - hash:
-      serializedVersion: 2
-      Hash: e989db3cbff6b05baeae2cf797893d48
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: Jump
-  - hash:
-      serializedVersion: 2
-      Hash: ac736fc7a493a89e323807ea3812ba84
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: Zoom
-  - hash:
-      serializedVersion: 2
-      Hash: 99054075e54ab74a11d477ccf5c7def2
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: Crouch
-  - hash:
-      serializedVersion: 2
       Hash: cc4890c75b96c20b1c0d89b665915da6
     assemblyName: Assembly-CSharp
     namespaceName: 
     className: GroundCheck
-  - hash:
-      serializedVersion: 2
-      Hash: 073b74cae83416d482e3717876df85a4
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: FirstPersonLook
-  - hash:
-      serializedVersion: 2
-      Hash: 04310897cebfbc50066db7fa3f427dd2
-    assemblyName: Assembly-CSharp
-    namespaceName: 
-    className: FirstPersonAudio
   platform: 20
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: C:/Users/opotaseva/Downloads/FinalGameProject
+  playerPath: D:/fixmes/GitHub/FinalGameProject/Build
