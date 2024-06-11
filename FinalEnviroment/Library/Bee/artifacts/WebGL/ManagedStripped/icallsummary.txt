@@ -7,6 +7,7 @@ UnityEngine.AnimationCurve::Internal_Equals
 UnityEngine.AnimationCurve::GetHashCode
 UnityEngine.AnimationCurve::Internal_Create
 UnityEngine.AnimationCurve::Internal_Destroy
+UnityEngine.Animations.AnimationLayerMixerPlayable::SetSingleLayerOptimizationInternal
 UnityEngine.AudioSource::get_isPlaying
 UnityEngine.AudioSource::Pause
 UnityEngine.AudioSource::PlayHelper
@@ -136,6 +137,8 @@ UnityEngine.Physics::Internal_RaycastAll_Injected
 UnityEngine.PhysicsScene::Internal_RaycastTest_Injected
 UnityEngine.PhysicsScene::Internal_Raycast_Injected
 UnityEngine.PhysicsScene::Internal_RaycastNonAlloc_Injected
+UnityEngine.Playables.PlayableHandle::IsValid_Injected
+UnityEngine.Playables.PlayableHandle::GetPlayableType_Injected
 UnityEngine.PlayerConnectionInternal::IsConnected
 UnityEngine.PlayerConnectionInternal::TrySendMessage
 UnityEngine.PlayerConnectionInternal::DisconnectAll
